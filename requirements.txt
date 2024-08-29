@@ -6,3 +6,4 @@ seaborn==0.12.1
 numpy==1.23.4
 scikit-learn==1.0.2
 mpl_toolkits==3.3.4
+distutils
